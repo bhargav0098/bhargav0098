@@ -19,22 +19,15 @@
 
 ## 🧑‍💻 About Me
 
-Hi, I'm **Telugu Bhargav Ram** 👋
+Hi, I'm **Telugu Bhargav Ram** 👋 — a passionate **Full Stack Developer** and **ML Enthusiast** from India 🇮🇳.
 
-I'm a passionate **Full Stack Developer** and **Machine Learning Enthusiast** from India 🇮🇳.  
-I love building modern web applications, exploring AI solutions, and creating products that solve real-world problems.
+I love building modern web applications, AI-powered tools, and products that solve real-world problems. From crafting clean frontends with **Next.js & Tailwind** to wiring up backends with **Node.js & Flask**, to deploying on **AWS / Azure / GCP** — I enjoy the full journey from idea to production.
 
-🚀 **Currently working on**
-- Building full-stack applications
-- Developing AI-powered projects
-- Exploring machine learning workflows and cloud technologies
-
-🎯 **My Goal**
-To create impactful products, contribute to open-source projects, and continuously improve as a developer.
-
-✨ Always learning, building, and experimenting with new technologies.
-
-Thanks for visiting my profile! Let's build something awesome together 🚀
+- 🔭 Currently building: full-stack apps & AI-powered projects
+- 🌱 Exploring: ML pipelines, REST APIs, Cloud certifications
+- 🤝 Open to: collaborations, hackathons & open-source contributions
+- 📫 Reach me at: **bhargavram085@gmail.com**
+- ⚡ Fun fact: I also work with **3D graphics** using Blender!
 
 ---
 
