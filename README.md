@@ -109,15 +109,15 @@ Thanks for visiting my profile! Let's build something awesome together 🚀
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <div align="center">
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🤖 **Flash-AI** | AI-powered study assistant for smarter learning | Python, Streamlit, LLM |
-| 🐛 **Syntax-Error** | Developer-focused platform for coding help & collaboration | JavaScript, Node.js |
-| 👁️ **DRISHYTOX** | Vision-based project (collab with Anshulpj12) | HTML, Web APIs |
+| Project           | Description                                                                                                              | Tech                          | Live Demo |
+|----------|-------------|------|-----------|
+| 🧠 **CareerIQ** | AI-powered career assistant that helps users with resume analysis, career guidance, and skill improvement recommendations | MERN Stack, AI, MongoDB, APIs | [Live Demo](https://hm-azure-ten.vercel.app/) |
+| 🍎 **WebCam Fruit Ninja** | Interactive computer vision game that uses webcam tracking to detect hand movements and slice fruits in real-time | Python, OpenCV, Computer Vision, MediaPipe | [Live Demo](https://web-ecru-five-26.vercel.app/) |
+| 🏥 **MediQueue** | Smart healthcare queue management system that helps manage appointments, patient flow, and doctor availability efficiently | MERN Stack, MongoDB, React, Node.js | [Live Demo](https://final-vj5v.vercel.app/login) |
 
 </div>
 
