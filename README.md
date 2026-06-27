@@ -24,14 +24,6 @@ Hi, I'm **Telugu Bhargav Ram** 👋
 I'm a passionate **Full Stack Developer** and **Machine Learning Enthusiast** from India 🇮🇳.  
 I love building modern web applications, exploring AI solutions, and creating products that solve real-world problems.
 
-💻 **Tech Stack**
-- Languages: Python, JavaScript
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Flask
-- Databases: MongoDB, MySQL, PostgreSQL
-- Cloud: AWS, Azure, Google Cloud
-- ML & Data: Scikit-learn, Pandas, NumPy, Matplotlib, Plotly
-
 🚀 **Currently working on**
 - Building full-stack applications
 - Developing AI-powered projects
