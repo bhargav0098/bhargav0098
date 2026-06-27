@@ -143,16 +143,6 @@ Thanks for visiting my profile! Let's build something awesome together 🚀
 
 ---
 
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:0072C6&height=120&section=footer" />
