@@ -19,26 +19,30 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class TeluguBhargavRam:
-    def __init__(self):
-        self.name        = "Telugu Bhargav Ram"
-        self.username    = "bhargav0098"
-        self.location    = "India 🇮🇳"
-        self.email       = "bhargavram085@gmail.com"
-        self.stack       = ["Python", "JavaScript", "Node.js", "Next.js", "Flask"]
-        self.cloud       = ["AWS", "Azure", "Google Cloud"]
-        self.databases   = ["MySQL", "PostgreSQL", "MongoDB"]
-        self.ml_tools    = ["scikit-learn", "Pandas", "NumPy", "Matplotlib", "Plotly"]
-        self.currently   = "Building full-stack apps + exploring ML pipelines"
-        self.goal        = "Ship impactful products and contribute to open source"
+Hi, I'm **Telugu Bhargav Ram** 👋
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something awesome together 🚀")
+I'm a passionate **Full Stack Developer** and **Machine Learning Enthusiast** from India 🇮🇳.  
+I love building modern web applications, exploring AI solutions, and creating products that solve real-world problems.
 
-me = TeluguBhargavRam()
-me.say_hi()
-```
+💻 **Tech Stack**
+- Languages: Python, JavaScript
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, Flask
+- Databases: MongoDB, MySQL, PostgreSQL
+- Cloud: AWS, Azure, Google Cloud
+- ML & Data: Scikit-learn, Pandas, NumPy, Matplotlib, Plotly
+
+🚀 **Currently working on**
+- Building full-stack applications
+- Developing AI-powered projects
+- Exploring machine learning workflows and cloud technologies
+
+🎯 **My Goal**
+To create impactful products, contribute to open-source projects, and continuously improve as a developer.
+
+✨ Always learning, building, and experimenting with new technologies.
+
+Thanks for visiting my profile! Let's build something awesome together 🚀
 
 ---
 
